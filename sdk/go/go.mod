@@ -1,6 +1,7 @@
 module dagger.io/dagger
 
 go 1.21
+toolchain go1.24.1
 
 // retract engine releases from SDK releases
 retract [v0.0.0, v0.2.36]
@@ -12,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.8.3
 	github.com/vektah/gqlparser/v2 v2.5.6
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
-	golang.org/x/sync v0.6.0
+	golang.org/x/sync v0.13.0
 )
 
 require (
