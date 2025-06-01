@@ -6,7 +6,7 @@
 #
 black==23.12.1
     # via -r requirements.in
-click==8.1.7
+click==8.2.1
     # via black
 mypy==1.8.0
     # via -r requirements.in
