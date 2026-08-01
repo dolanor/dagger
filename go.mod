@@ -52,7 +52,7 @@ require (
 	github.com/moby/patternmatcher v0.6.0
 	github.com/moby/sys/mount v0.3.3
 	github.com/muesli/reflow v0.3.0
-	github.com/muesli/termenv v0.15.2
+	github.com/muesli/termenv v0.16.0
 	github.com/nxadm/tail v1.4.8
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0-rc5
@@ -94,7 +94,7 @@ require (
 	golang.org/x/net v0.20.0
 	golang.org/x/oauth2 v0.16.0
 	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.16.0
+	golang.org/x/sys v0.30.0
 	golang.org/x/term v0.16.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.17.0
@@ -105,8 +105,6 @@ require (
 	oss.terrastruct.com/d2 v0.6.1
 	oss.terrastruct.com/util-go v0.0.0-20231101220827-55b3812542c2
 )
-
-require github.com/containerd/console v1.0.4-0.20230313162750-1ae8d489ac81
 
 require (
 	cdr.dev/slog v1.4.2 // indirect
@@ -235,7 +233,7 @@ require (
 	github.com/prometheus/client_golang v1.17.0 // indirect
 	github.com/prometheus/client_model v0.4.1-0.20230718164431-9a2bf3000d16 // indirect
 	github.com/prometheus/common v0.44.0 // indirect
-	github.com/rivo/uniseg v0.4.6 // indirect
+	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/samber/lo v1.38.1 // indirect
 	github.com/samber/slog-common v0.14.0 // indirect
