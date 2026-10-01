@@ -23,7 +23,7 @@ certifi==2023.11.17
     #   httpx
 gql[httpx]==3.5.0
     # via -r requirements.in
-graphql-core==3.2.3
+graphql-core==3.3.0
     # via
     #   -r requirements.in
     #   gql
